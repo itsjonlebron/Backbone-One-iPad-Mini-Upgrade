@@ -45,9 +45,9 @@ For this project, I am modding the USB-C Gen 4 (2023) version of the Backbone On
 Start by 3D printing the 4 new parts, as this will take the most time:
 I recommend a fine print with a completely solid infill.
 <ul>
-<li>[Extended-BackBoneOne4_V5a-Top.stl](#Extended-BackBoneOne4_V5a-Top.stl)</li>
-<li>[Extended-BackBoneOne4_V5a-Bottom.stl](#Extended-BackBoneOne4_V5a-Bottom.stl)</li>
-<li>[Left/Right Support Brackets](#Extended-BackBoneOne4_SSv2.stl)</li>
+<li>Extended-BackBoneOne4_V5a-Top.stl</li>
+<li>Extended-BackBoneOne4_V5a-Bottom.stl</li>
+<li>Left/Right Support Brackets</li>
 </ul>
 
 ### Quick Disclaimer
