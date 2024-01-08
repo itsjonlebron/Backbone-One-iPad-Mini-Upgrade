@@ -105,7 +105,7 @@ Set aside and save the two remaining/extra screws </i>if you want to revert the 
 
 ## Step 7
 
-Reassemble the springs and position them into place. <b>OPTIONAL:</b> For added support, you can 3D print the two L/R support pieces. These will help the backbone retain some rigidity while fully extended. <i>Optional, but highly recommend.</i> Repeat for the Left side.
+Reassemble the springs and position them into place. <b>OPTIONAL:</b> For added support, you can 3D print the two L/R support pieces. These will help the backbone retain some rigidity while fully extended. <i>Optional, but highly recommend.</i> Repeat for the other side.
 <br><br>
 <img src="images/IMG_8294.jpg" width="350"> <img src="images/IMG_8295.jpg" width="350"> <img src="images/IMG_8291.jpg" width="350">
 
