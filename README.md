@@ -7,7 +7,7 @@
   <h3 align="center">Backbone One iPad Mini Upgrade</h3>
 
   <p align="center">
-    Expansion upgrade for the Gen 4 Backbone One to fit larger devices and tablets, including iPad mini.
+    Expansion upgrade for the Gen 2 Backbone One to fit larger devices and tablets, including iPad mini.
     <br/>
     <br/>
   </p>
@@ -38,7 +38,7 @@ If you found this mod helpful at all, please consider [tipping to support develo
 
 ## Getting Started
 
-For this project, I am modding the USB-C Gen 4 (2023) version of the Backbone One. <i>Compatibility with older generations is not guaranteed since I do not have those versions to examine and test with.</i>
+For this project, I am modding the USB-C Gen 2 (2023) version of the Backbone One. <i>Compatibility with older generations is not guaranteed since I do not have those versions to examine and test with.</i>
 
 ### Prerequisites
 
