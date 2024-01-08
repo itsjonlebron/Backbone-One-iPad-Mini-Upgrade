@@ -131,7 +131,7 @@ After confirming support and everything is working nicely. Insert the 8 screws o
 
 🎉 That’s it! Notice the main difference is the expanded size when collapsed. However, this mod will still allow the BackBone to be stored in the original case!
 <br><br>
-<img src="images/IMG_8230.jpg" width="350"> <img src="images/IMG_8299.jpg" width="350"> <img src="images/IMG_8301.jpg" width="350">
+<img src="images/IMG_8303.jpg" width="350"> <img src="images/IMG_8299.jpg" width="350"> <img src="images/IMG_8301.jpg" width="350">
 
 
 If you found this mod helpful at all, please consider [tipping to support development](https://www.paypal.com/donate/?business=V2MLZ6NSZ3BUQ&amount=&no_recurring=0&item_name=points+for+you%2C+support+for+me&currency_code=USD) for this mod and others! 
