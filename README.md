@@ -77,7 +77,7 @@ Carefully remove the tension from the springs on both sides. Unscrew both and se
 
 Locate and remove the magnetic support bracket just below the USB-C connector cable. There are two screws to remove this support.
 <br><br>
-<img src="images/IMG_8286.jpg" width="350"> <img src="images/IMG_8283.jpg" width="350">
+<img src="images/IMG_8286.jpg" width="350">
 
 Unscrew the 4 screws holding the support rails on each side. Then slide out each side, be mindful of the ribbon cable.
 <br><br>
