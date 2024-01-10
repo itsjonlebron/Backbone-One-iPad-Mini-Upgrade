@@ -134,7 +134,12 @@ After confirming support and everything is working nicely. Insert the 8 screws o
 <img src="images/IMG_8303.jpg" width="350"> <img src="images/IMG_8299.jpg" width="350"> <img src="images/IMG_8301.jpg" width="350">
 
 
-If you found this mod helpful at all, please consider [tipping to support development](https://www.paypal.com/donate/?business=V2MLZ6NSZ3BUQ&amount=&no_recurring=0&item_name=points+for+you%2C+support+for+me&currency_code=USD) for this mod and others! 
+If you found this mod helpful at all, please consider [tipping to support development](https://www.paypal.com/donate/?business=V2MLZ6NSZ3BUQ&amount=&no_recurring=0&item_name=points+for+you%2C+support+for+me&currency_code=USD) for this mod and others!
+
+
+## Did you complete the mod?
+
+I'd love to see how it worked out for you! Open an "issue" and attach a few images of the finished product. I can also provide moral and emotional advice if needed (financial, probably not).
 
 ## Author
 
