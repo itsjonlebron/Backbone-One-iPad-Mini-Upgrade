@@ -43,7 +43,7 @@ For this project, I am modding the USB-C Gen 2 (2023) version of the Backbone On
 ### Prerequisites
 
 Start by 3D printing the 4 new parts, as this will take the most time:
-I recommend a fine print with a completely solid infill.
+I've provided the file format in mm and recommend a fine print with a completely solid infill.
 <ul>
 <li>Extended-BackBoneOne4_V5a-Top.stl</li>
 <li>Extended-BackBoneOne4_V5a-Bottom.stl</li>
