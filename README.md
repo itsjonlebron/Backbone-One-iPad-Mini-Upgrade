@@ -87,7 +87,7 @@ Unscrew the 4 screws holding the support rails on each side. Then slide out each
 
 Remove the two screws holding the rail together. Once removed, carefully pry the rail apart.
 <br><br>
-<img src="images/IMG_8267.jpg" width="350"> <img src="images/IMG_8268.jpg" width="350"> <img src="images/IMG_8270.jpg" width="350">
+<img src="images/IMG_8267.jpg" width="350"> <img src="images/IMG_8270.jpg" width="350">
 
 ## Step 5
 
@@ -134,7 +134,7 @@ After confirming support and everything is working nicely. Insert the 8 screws o
 <img src="images/IMG_8303.jpg" width="350"> <img src="images/IMG_8299.jpg" width="350"> <img src="images/IMG_8301.jpg" width="350">
 
 
-If you found this mod helpful at all, please consider [tipping to support development](https://www.paypal.com/donate/?business=V2MLZ6NSZ3BUQ&amount=&no_recurring=0&item_name=points+for+you%2C+support+for+me&currency_code=USD) for this mod and others!
+If you found this mod helpful at all, please consider [tipping to support development](https://www.paypal.com/donate/?business=V2MLZ6NSZ3BUQ&amount=&no_recurring=0&item_name=BackBone+Mod+Support&currency_code=USD) for this mod and others!
 
 
 ## Did you complete the mod?
